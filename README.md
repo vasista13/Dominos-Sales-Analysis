@@ -4,7 +4,6 @@
 Pizza Sales Analysis Dashboard
 An end-to-end sales analysis project built using Power BI and the Pizza Sales dataset. The dashboard turns one year of transactional pizza-order data (January–December 2015) into a concise view of revenue, order volume, product mix, and best-selling pizzas.
 
-Dashboard preview: Add the dashboard screenshot to your repository at images/pizza-sales-dashboard.png so the image above renders on GitHub.
 
 Project Overview
 The objective of this project is to analyze pizza sales performance and identify useful business patterns, including:
